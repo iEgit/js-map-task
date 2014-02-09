@@ -1,0 +1,12 @@
+{
+  "name": "jsMapTask",
+  "version": "0.0.0",
+  "description": "js task found here: http://gismeteojstask.azurewebsites.net/Info",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Egor Kopylov",
+  "license": "BSD"
+}

@@ -1,0 +1,20 @@
+section[id*=template] {
+	display: none;
+}
+.positive {
+	background: green;
+}
+.negative {
+	background: red;
+}
+.orientation-table div {
+	width: 200px
+}
+#main > section {
+	display: block !important;
+};
+path, .path {
+	fill: none;
+	stroke: red;
+	stroke-width: 5;
+}
