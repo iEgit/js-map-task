@@ -8,5 +8,8 @@
     "start": "node server.js"
   },
   "author": "Egor Kopylov",
-  "license": "BSD"
+  "repository": "https://github.com/iEgit/js-map-task",  
+  "engines": {
+    "node": "0.10.x"
+  }
 }
