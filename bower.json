@@ -1,0 +1,10 @@
+{
+    "name": "js-map-task",
+    "version": "0.0.0",
+    "dependencies": {
+        "jquery": "1.9",
+        "requirejs": null,
+        "knockout.js": null,
+        "sammy": null
+    }
+}
